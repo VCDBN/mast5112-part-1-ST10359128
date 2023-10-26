@@ -1,6 +1,6 @@
 // HomePage.js
 import React from 'react';
-import { View, Text, StyleSheet } from 'react-native';
+import { View, Text, StyleSheet , Button } from 'react-native';
 
 const HomePage = () => {
   return (
